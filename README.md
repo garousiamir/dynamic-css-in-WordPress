@@ -1,6 +1,8 @@
 # Dynamic CSS in WordPress
 This repo is for WordPress developers who want to output dynamic CSS of their themes or plugins as external CSS and not internal inline CSS 
 
+![dynami_css](https://github.com/garousiamir/dynamic-css-in-WordPress/blob/main/readme_dcss.jpg?raw=true)
+
 
 ### How to use it?
 1. First of all, you need to download this repo using **git clone** or **manual download** and put it somewhere in your theme. 
